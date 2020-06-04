@@ -1,7 +1,6 @@
 # Ecoleta :recycle: 
 
-O Ecoleta é uma aplicação feita com intuito das pessoas que precisam descartar os resíduos, encontrarem empresas ou entidades que coletam resíduos orgânicos e inorgânicos.
-
+O Ecoleta é uma aplicação Web para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
 
 ## Tecnologias usadas :rocket: 
 
