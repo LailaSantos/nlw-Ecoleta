@@ -35,7 +35,7 @@ O Ecoleta é uma aplicação Web para ajudar pessoas a encontrarem pontos de col
   `npm start`
   
 ###### Essas foram algumas anotações que fiz... :bookmark: 
-###### Obs: Falta uns ajustes, de fotos e tals... Tá em andamento...
+###### Obs: Falta uns ajustes, de fotos e tals... Tá em andamento, e esse README chic, tô aprendendo ainda kkk.
 
 ####  Feito com :purple_heart:  by - Laila Roberta :v:.
 
